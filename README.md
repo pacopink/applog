@@ -109,7 +109,7 @@ WriteLog
 no KPI and Alarm APIs are usable at this mode 
 
 ```
-graph LR
+flowchart
 Application-->Logger
 Logger-->Stdout
 ```
